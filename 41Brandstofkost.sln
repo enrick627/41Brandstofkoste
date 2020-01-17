@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brandstofkost", "Brandstofkost\Brandstofkost.csproj", "{1050A3F8-EE77-4572-B58B-E7A64F469B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1050A3F8-EE77-4572-B58B-E7A64F469B3C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{1050A3F8-EE77-4572-B58B-E7A64F469B3C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{1050A3F8-EE77-4572-B58B-E7A64F469B3C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{1050A3F8-EE77-4572-B58B-E7A64F469B3C}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156570C2-5464-4019-8CDC-72CAD15CA9DC}
+	EndGlobalSection
+EndGlobal
