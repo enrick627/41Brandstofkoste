@@ -3,9 +3,9 @@
  * OPGAVE
  * ======
  * kostprijs per KM
- * Diesel of benzine        diesel = 1.5900
- *                          super 95 = 1.5140
- *                          super 97 = 1.6020
+ * Diesel of benzine      B7  diesel = 1.5900
+ *                        E10  super 95 = 1.5140
+ *                        E5  super 97 = 1.6020
  *
  * Aantal getankte liters
  * liters over
@@ -47,6 +47,7 @@ namespace Brandstofkost
             byte aantaLiterGetankt, aantalLiterOver;
             // VRAAG    rijd u met DIESEL typ 1, super 95 typ 2 of super 97 typ3
             Console.WriteLine("rijd u met DIESEL typ 1, super 95 typ 2 of super 97 typ3");
+            
             soort = ushort.Parse(Console.ReadLine());
             //          wat is het aantal km die u heeft gereden
             Console.WriteLine("wat is het aantal km die u heeft gereden?");
